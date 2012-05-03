@@ -1,0 +1,6 @@
+bin/
+gen/
+*~
+/zone/.settings/
+/zone/target/
+/zone/project.properties/
